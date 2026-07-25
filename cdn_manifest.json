@@ -1,0 +1,247 @@
+{
+  "generatedAt": "2026-07-25T07:16:37.723Z",
+  "totalBytes": 18019224,
+  "count": 60,
+  "files": [
+    {
+      "file": "images/201-gombuj-mosque_2.webp",
+      "bytes": 758978
+    },
+    {
+      "file": "images/201-gombuj-mosque_cover.webp",
+      "bytes": 369852
+    },
+    {
+      "file": "images/ahsan-manzil_2.webp",
+      "bytes": 353586
+    },
+    {
+      "file": "images/ahsan-manzil_cover.webp",
+      "bytes": 339710
+    },
+    {
+      "file": "images/arial-beel_2.webp",
+      "bytes": 232684
+    },
+    {
+      "file": "images/arial-beel_cover.webp",
+      "bytes": 151722
+    },
+    {
+      "file": "images/armenian-church_2.webp",
+      "bytes": 356040
+    },
+    {
+      "file": "images/armenian-church_cover.webp",
+      "bytes": 147138
+    },
+    {
+      "file": "images/atia-mosque_2.webp",
+      "bytes": 139572
+    },
+    {
+      "file": "images/atia-mosque_cover.webp",
+      "bytes": 142768
+    },
+    {
+      "file": "images/baldha-garden_2.webp",
+      "bytes": 178440
+    },
+    {
+      "file": "images/baldha-garden_cover.webp",
+      "bytes": 140810
+    },
+    {
+      "file": "images/baliati-palace_2.webp",
+      "bytes": 560236
+    },
+    {
+      "file": "images/baliati-palace_cover.webp",
+      "bytes": 501198
+    },
+    {
+      "file": "images/bangladesh-national-museum_2.webp",
+      "bytes": 276248
+    },
+    {
+      "file": "images/bangladesh-national-museum_cover.webp",
+      "bytes": 154496
+    },
+    {
+      "file": "images/bhawal-national-park_2.webp",
+      "bytes": 344006
+    },
+    {
+      "file": "images/bhawal-national-park_cover.webp",
+      "bytes": 440568
+    },
+    {
+      "file": "images/curzon-hall_2.webp",
+      "bytes": 85570
+    },
+    {
+      "file": "images/curzon-hall_cover.webp",
+      "bytes": 458744
+    },
+    {
+      "file": "images/dhakeshwari-temple_2.webp",
+      "bytes": 273978
+    },
+    {
+      "file": "images/dhakeshwari-temple_cover.webp",
+      "bytes": 122354
+    },
+    {
+      "file": "images/folk-art-museum_2.webp",
+      "bytes": 277304
+    },
+    {
+      "file": "images/folk-art-museum_cover.webp",
+      "bytes": 196316
+    },
+    {
+      "file": "images/goaldi-mosque_2.webp",
+      "bytes": 338596
+    },
+    {
+      "file": "images/goaldi-mosque_cover.webp",
+      "bytes": 348410
+    },
+    {
+      "file": "images/hatirjheel_2.webp",
+      "bytes": 458432
+    },
+    {
+      "file": "images/hatirjheel_cover.webp",
+      "bytes": 199366
+    },
+    {
+      "file": "images/idrakpur-fort_2.webp",
+      "bytes": 335808
+    },
+    {
+      "file": "images/idrakpur-fort_cover.webp",
+      "bytes": 342418
+    },
+    {
+      "file": "images/jatiyo-sangsad-bhaban_2.webp",
+      "bytes": 120758
+    },
+    {
+      "file": "images/jatiyo-sangsad-bhaban_cover.webp",
+      "bytes": 73776
+    },
+    {
+      "file": "images/lalbagh-fort_2.webp",
+      "bytes": 33370
+    },
+    {
+      "file": "images/lalbagh-fort_cover.webp",
+      "bytes": 123446
+    },
+    {
+      "file": "images/madhupur-national-park_2.webp",
+      "bytes": 559362
+    },
+    {
+      "file": "images/madhupur-national-park_cover.webp",
+      "bytes": 350946
+    },
+    {
+      "file": "images/mawa-ghat_2.webp",
+      "bytes": 312218
+    },
+    {
+      "file": "images/mawa-ghat_cover.webp",
+      "bytes": 163620
+    },
+    {
+      "file": "images/mohera-zamindar-bari_2.webp",
+      "bytes": 358346
+    },
+    {
+      "file": "images/mohera-zamindar-bari_cover.webp",
+      "bytes": 235610
+    },
+    {
+      "file": "images/national-botanical-garden_2.webp",
+      "bytes": 659126
+    },
+    {
+      "file": "images/national-botanical-garden_cover.webp",
+      "bytes": 177218
+    },
+    {
+      "file": "images/national-martyrs-memorial_2.webp",
+      "bytes": 268124
+    },
+    {
+      "file": "images/national-martyrs-memorial_cover.webp",
+      "bytes": 84522
+    },
+    {
+      "file": "images/nikli-haor_2.webp",
+      "bytes": 303778
+    },
+    {
+      "file": "images/nikli-haor_cover.webp",
+      "bytes": 44662
+    },
+    {
+      "file": "images/nuhash-polli_2.webp",
+      "bytes": 719256
+    },
+    {
+      "file": "images/nuhash-polli_cover.webp",
+      "bytes": 408050
+    },
+    {
+      "file": "images/panam-city_2.webp",
+      "bytes": 325534
+    },
+    {
+      "file": "images/panam-city_cover.webp",
+      "bytes": 181410
+    },
+    {
+      "file": "images/ramna-park_2.webp",
+      "bytes": 625520
+    },
+    {
+      "file": "images/ramna-park_cover.webp",
+      "bytes": 480324
+    },
+    {
+      "file": "images/safari-park-gazipur_2.webp",
+      "bytes": 265032
+    },
+    {
+      "file": "images/safari-park-gazipur_cover.webp",
+      "bytes": 463292
+    },
+    {
+      "file": "images/star-mosque_2.webp",
+      "bytes": 247790
+    },
+    {
+      "file": "images/star-mosque_cover.webp",
+      "bytes": 189586
+    },
+    {
+      "file": "images/teota-zamindar-bari_2.webp",
+      "bytes": 167406
+    },
+    {
+      "file": "images/teota-zamindar-bari_cover.webp",
+      "bytes": 289598
+    },
+    {
+      "file": "images/wari-bateshwar_2.webp",
+      "bytes": 285822
+    },
+    {
+      "file": "images/wari-bateshwar_cover.webp",
+      "bytes": 476374
+    }
+  ]
+}
