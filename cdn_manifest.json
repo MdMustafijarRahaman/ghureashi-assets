@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-25T07:16:37.723Z",
-  "totalBytes": 18019224,
-  "count": 60,
+  "generatedAt": "2026-07-30T19:22:51.973Z",
+  "totalBytes": 26335340,
+  "count": 93,
   "files": [
     {
       "file": "images/201-gombuj-mosque_2.webp",
@@ -76,6 +76,14 @@
       "bytes": 440568
     },
     {
+      "file": "images/bhawal-rajbari_2.webp",
+      "bytes": 137390
+    },
+    {
+      "file": "images/bhawal-rajbari_cover.webp",
+      "bytes": 439298
+    },
+    {
       "file": "images/curzon-hall_2.webp",
       "bytes": 85570
     },
@@ -92,6 +100,22 @@
       "bytes": 122354
     },
     {
+      "file": "images/dream-holiday-park_cover.webp",
+      "bytes": 252520
+    },
+    {
+      "file": "images/egarosindur_2.webp",
+      "bytes": 195066
+    },
+    {
+      "file": "images/egarosindur_cover.webp",
+      "bytes": 355506
+    },
+    {
+      "file": "images/fantasy-kingdom_cover.webp",
+      "bytes": 190680
+    },
+    {
       "file": "images/folk-art-museum_2.webp",
       "bytes": 277304
     },
@@ -100,12 +124,24 @@
       "bytes": 196316
     },
     {
+      "file": "images/goalanda-ghat_2.webp",
+      "bytes": 73822
+    },
+    {
+      "file": "images/goalanda-ghat_cover.webp",
+      "bytes": 124520
+    },
+    {
       "file": "images/goaldi-mosque_2.webp",
       "bytes": 338596
     },
     {
       "file": "images/goaldi-mosque_cover.webp",
       "bytes": 348410
+    },
+    {
+      "file": "images/godar-bazar_cover.webp",
+      "bytes": 179712
     },
     {
       "file": "images/hatirjheel_2.webp",
@@ -124,12 +160,28 @@
       "bytes": 342418
     },
     {
+      "file": "images/jahangirnagar-university_2.webp",
+      "bytes": 366776
+    },
+    {
+      "file": "images/jahangirnagar-university_cover.webp",
+      "bytes": 237408
+    },
+    {
       "file": "images/jatiyo-sangsad-bhaban_2.webp",
       "bytes": 120758
     },
     {
       "file": "images/jatiyo-sangsad-bhaban_cover.webp",
       "bytes": 73776
+    },
+    {
+      "file": "images/jinda-park_2.webp",
+      "bytes": 423502
+    },
+    {
+      "file": "images/jinda-park_cover.webp",
+      "bytes": 293356
     },
     {
       "file": "images/lalbagh-fort_2.webp",
@@ -140,12 +192,28 @@
       "bytes": 123446
     },
     {
+      "file": "images/liberation-war-museum_2.webp",
+      "bytes": 86824
+    },
+    {
+      "file": "images/liberation-war-museum_cover.webp",
+      "bytes": 91156
+    },
+    {
       "file": "images/madhupur-national-park_2.webp",
       "bytes": 559362
     },
     {
       "file": "images/madhupur-national-park_cover.webp",
       "bytes": 350946
+    },
+    {
+      "file": "images/mathurapur-deul_2.webp",
+      "bytes": 171284
+    },
+    {
+      "file": "images/mathurapur-deul_cover.webp",
+      "bytes": 224108
     },
     {
       "file": "images/mawa-ghat_2.webp",
@@ -196,12 +264,40 @@
       "bytes": 408050
     },
     {
+      "file": "images/orakandi-thakurbari_2.webp",
+      "bytes": 223304
+    },
+    {
+      "file": "images/orakandi-thakurbari_cover.webp",
+      "bytes": 393922
+    },
+    {
       "file": "images/panam-city_2.webp",
       "bytes": 325534
     },
     {
       "file": "images/panam-city_cover.webp",
       "bytes": 181410
+    },
+    {
+      "file": "images/paturia-ghat_2.webp",
+      "bytes": 162316
+    },
+    {
+      "file": "images/paturia-ghat_cover.webp",
+      "bytes": 89090
+    },
+    {
+      "file": "images/porabari-chomchom_cover.webp",
+      "bytes": 207682
+    },
+    {
+      "file": "images/rajaram-temple-madaripur_2.webp",
+      "bytes": 226818
+    },
+    {
+      "file": "images/rajaram-temple-madaripur_cover.webp",
+      "bytes": 422220
     },
     {
       "file": "images/ramna-park_2.webp",
@@ -212,12 +308,40 @@
       "bytes": 480324
     },
     {
+      "file": "images/rudrakar-matth_2.webp",
+      "bytes": 184394
+    },
+    {
+      "file": "images/rudrakar-matth_cover.webp",
+      "bytes": 180730
+    },
+    {
       "file": "images/safari-park-gazipur_2.webp",
       "bytes": 265032
     },
     {
       "file": "images/safari-park-gazipur_cover.webp",
       "bytes": 463292
+    },
+    {
+      "file": "images/satoir-mosque_2.webp",
+      "bytes": 279286
+    },
+    {
+      "file": "images/satoir-mosque_cover.webp",
+      "bytes": 282176
+    },
+    {
+      "file": "images/shakuni-lake_cover.webp",
+      "bytes": 182136
+    },
+    {
+      "file": "images/sholakia-eidgah_2.webp",
+      "bytes": 531324
+    },
+    {
+      "file": "images/sholakia-eidgah_cover.webp",
+      "bytes": 546082
     },
     {
       "file": "images/star-mosque_2.webp",
@@ -228,12 +352,20 @@
       "bytes": 189586
     },
     {
+      "file": "images/sureshwar-darbar_cover.webp",
+      "bytes": 281718
+    },
+    {
       "file": "images/teota-zamindar-bari_2.webp",
       "bytes": 167406
     },
     {
       "file": "images/teota-zamindar-bari_cover.webp",
       "bytes": 289598
+    },
+    {
+      "file": "images/tungipara-mausoleum_cover.webp",
+      "bytes": 279990
     },
     {
       "file": "images/wari-bateshwar_2.webp",
