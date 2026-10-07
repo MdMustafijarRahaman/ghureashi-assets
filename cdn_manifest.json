@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-30T19:22:51.973Z",
-  "totalBytes": 26335340,
-  "count": 93,
+  "generatedAt": "2026-10-07T11:25:12.512Z",
+  "totalBytes": 35856082,
+  "count": 127,
   "files": [
     {
       "file": "images/201-gombuj-mosque_2.webp",
@@ -20,12 +20,20 @@
       "bytes": 339710
     },
     {
+      "file": "images/alutila-cave_cover.webp",
+      "bytes": 377254
+    },
+    {
       "file": "images/arial-beel_2.webp",
       "bytes": 232684
     },
     {
       "file": "images/arial-beel_cover.webp",
       "bytes": 151722
+    },
+    {
+      "file": "images/arifail-mosque_cover.webp",
+      "bytes": 254240
     },
     {
       "file": "images/armenian-church_2.webp",
@@ -84,6 +92,38 @@
       "bytes": 439298
     },
     {
+      "file": "images/bijoy-singh-dighi_cover.webp",
+      "bytes": 108552
+    },
+    {
+      "file": "images/boga-lake_cover.webp",
+      "bytes": 443158
+    },
+    {
+      "file": "images/buddha-dhatu-jadi_cover.webp",
+      "bytes": 461248
+    },
+    {
+      "file": "images/chandpur-boro-station_cover.webp",
+      "bytes": 79700
+    },
+    {
+      "file": "images/chandranath-temple_cover.webp",
+      "bytes": 532294
+    },
+    {
+      "file": "images/chittagong-war-cemetery_cover.webp",
+      "bytes": 469248
+    },
+    {
+      "file": "images/coxs-bazar-beach_cover.webp",
+      "bytes": 59414
+    },
+    {
+      "file": "images/cumilla-war-cemetery_cover.webp",
+      "bytes": 611400
+    },
+    {
       "file": "images/curzon-hall_2.webp",
       "bytes": 85570
     },
@@ -92,12 +132,20 @@
       "bytes": 458744
     },
     {
+      "file": "images/dalal-bazar-zamindar-bari_cover.webp",
+      "bytes": 218950
+    },
+    {
       "file": "images/dhakeshwari-temple_2.webp",
       "bytes": 273978
     },
     {
       "file": "images/dhakeshwari-temple_cover.webp",
       "bytes": 122354
+    },
+    {
+      "file": "images/dharmasagar_cover.webp",
+      "bytes": 217632
     },
     {
       "file": "images/dream-holiday-park_cover.webp",
@@ -124,6 +172,10 @@
       "bytes": 196316
     },
     {
+      "file": "images/foys-lake_cover.webp",
+      "bytes": 271922
+    },
+    {
       "file": "images/goalanda-ghat_2.webp",
       "bytes": 73822
     },
@@ -144,6 +196,10 @@
       "bytes": 179712
     },
     {
+      "file": "images/hajiganj-boro-masjid_cover.webp",
+      "bytes": 112014
+    },
+    {
       "file": "images/hatirjheel_2.webp",
       "bytes": 458432
     },
@@ -152,12 +208,20 @@
       "bytes": 199366
     },
     {
+      "file": "images/himchari_cover.webp",
+      "bytes": 61264
+    },
+    {
       "file": "images/idrakpur-fort_2.webp",
       "bytes": 335808
     },
     {
       "file": "images/idrakpur-fort_cover.webp",
       "bytes": 342418
+    },
+    {
+      "file": "images/inani-beach_cover.webp",
+      "bytes": 143884
     },
     {
       "file": "images/jahangirnagar-university_2.webp",
@@ -184,6 +248,18 @@
       "bytes": 293356
     },
     {
+      "file": "images/kalvairab-temple_cover.webp",
+      "bytes": 174764
+    },
+    {
+      "file": "images/kaptai-lake_cover.webp",
+      "bytes": 303574
+    },
+    {
+      "file": "images/khaiyachora-waterfall_cover.webp",
+      "bytes": 915024
+    },
+    {
       "file": "images/lalbagh-fort_2.webp",
       "bytes": 33370
     },
@@ -206,6 +282,10 @@
     {
       "file": "images/madhupur-national-park_cover.webp",
       "bytes": 350946
+    },
+    {
+      "file": "images/maheshkhali-adinath_cover.webp",
+      "bytes": 431012
     },
     {
       "file": "images/mathurapur-deul_2.webp",
@@ -232,6 +312,18 @@
       "bytes": 235610
     },
     {
+      "file": "images/muhuri-project_cover.webp",
+      "bytes": 128718
+    },
+    {
+      "file": "images/musapur-closure_cover.webp",
+      "bytes": 71354
+    },
+    {
+      "file": "images/nafakhum-waterfall_cover.webp",
+      "bytes": 229752
+    },
+    {
       "file": "images/national-botanical-garden_2.webp",
       "bytes": 659126
     },
@@ -248,12 +340,20 @@
       "bytes": 84522
     },
     {
+      "file": "images/nijhum-dwip_cover.webp",
+      "bytes": 119156
+    },
+    {
       "file": "images/nikli-haor_2.webp",
       "bytes": 303778
     },
     {
       "file": "images/nikli-haor_cover.webp",
       "bytes": 44662
+    },
+    {
+      "file": "images/nilgiri_cover.webp",
+      "bytes": 16370
     },
     {
       "file": "images/nuhash-polli_2.webp",
@@ -278,6 +378,10 @@
     {
       "file": "images/panam-city_cover.webp",
       "bytes": 181410
+    },
+    {
+      "file": "images/patenga-beach_cover.webp",
+      "bytes": 217052
     },
     {
       "file": "images/paturia-ghat_2.webp",
@@ -308,6 +412,14 @@
       "bytes": 480324
     },
     {
+      "file": "images/rangamati-hanging-bridge_cover.webp",
+      "bytes": 303574
+    },
+    {
+      "file": "images/richhang-waterfall_cover.webp",
+      "bytes": 95444
+    },
+    {
       "file": "images/rudrakar-matth_2.webp",
       "bytes": 184394
     },
@@ -324,6 +436,18 @@
       "bytes": 463292
     },
     {
+      "file": "images/sahasradhara-waterfall_cover.webp",
+      "bytes": 438856
+    },
+    {
+      "file": "images/saint-martin-island_cover.webp",
+      "bytes": 331724
+    },
+    {
+      "file": "images/sajek-valley_cover.webp",
+      "bytes": 155298
+    },
+    {
       "file": "images/satoir-mosque_2.webp",
       "bytes": 279286
     },
@@ -336,12 +460,20 @@
       "bytes": 182136
     },
     {
+      "file": "images/shalban-vihara_cover.webp",
+      "bytes": 321862
+    },
+    {
       "file": "images/sholakia-eidgah_2.webp",
       "bytes": 531324
     },
     {
       "file": "images/sholakia-eidgah_cover.webp",
       "bytes": 546082
+    },
+    {
+      "file": "images/shuvolong-waterfall_cover.webp",
+      "bytes": 523898
     },
     {
       "file": "images/star-mosque_2.webp",
@@ -362,6 +494,10 @@
     {
       "file": "images/teota-zamindar-bari_cover.webp",
       "bytes": 289598
+    },
+    {
+      "file": "images/tita-khan-mosque_cover.webp",
+      "bytes": 321136
     },
     {
       "file": "images/tungipara-mausoleum_cover.webp",
