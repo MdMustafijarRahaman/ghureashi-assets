@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T09:47:56.602Z",
-  "totalBytes": 65397418,
-  "count": 242,
+  "generatedAt": "2026-10-08T10:37:35.910Z",
+  "totalBytes": 70776988,
+  "count": 265,
   "files": [
     {
       "file": "images/201-gombuj-mosque_2.webp",
@@ -84,6 +84,10 @@
       "bytes": 140810
     },
     {
+      "file": "images/baleshwar-river_cover.webp",
+      "bytes": 79240
+    },
+    {
       "file": "images/baliati-palace_2.webp",
       "bytes": 560236
     },
@@ -140,6 +144,18 @@
       "bytes": 439298
     },
     {
+      "file": "images/bhimruli-floating-guava-market_cover.webp",
+      "bytes": 338928
+    },
+    {
+      "file": "images/bibi-chini-mosque_cover.webp",
+      "bytes": 211718
+    },
+    {
+      "file": "images/bihanga-island_cover.webp",
+      "bytes": 93732
+    },
+    {
       "file": "images/bijoy-singh-dighi_cover.webp",
       "bytes": 108552
     },
@@ -156,6 +172,10 @@
       "bytes": 136650
     },
     {
+      "file": "images/bishkhali-river_cover.webp",
+      "bytes": 106398
+    },
+    {
       "file": "images/boga-lake_cover.webp",
       "bytes": 443158
     },
@@ -170,6 +190,10 @@
     {
       "file": "images/chandranath-temple_cover.webp",
       "bytes": 532294
+    },
+    {
+      "file": "images/char-kukri-mukri_cover.webp",
+      "bytes": 91820
     },
     {
       "file": "images/chattogram-zoo_cover.webp",
@@ -220,6 +244,10 @@
       "bytes": 118494
     },
     {
+      "file": "images/dc-park-pirojpur-riverview-eco-park_cover.webp",
+      "bytes": 112714
+    },
+    {
       "file": "images/dhakeshwari-temple_2.webp",
       "bytes": 273978
     },
@@ -256,6 +284,10 @@
       "bytes": 290536
     },
     {
+      "file": "images/durgasagar-dighi_cover.webp",
+      "bytes": 225688
+    },
+    {
       "file": "images/egarosindur_2.webp",
       "bytes": 195066
     },
@@ -270,6 +302,10 @@
     {
       "file": "images/fantasy-kingdom_cover.webp",
       "bytes": 190680
+    },
+    {
+      "file": "images/fatrar-bon-fatra-forest_cover.webp",
+      "bytes": 531018
     },
     {
       "file": "images/folk-art-museum_2.webp",
@@ -290,6 +326,10 @@
     {
       "file": "images/gajni-abokash-kendro_cover.webp",
       "bytes": 175676
+    },
+    {
+      "file": "images/gangamati_cover.webp",
+      "bytes": 115718
     },
     {
       "file": "images/goalanda-ghat_2.webp",
@@ -314,6 +354,10 @@
     {
       "file": "images/guliakhali-beach_cover.webp",
       "bytes": 245576
+    },
+    {
+      "file": "images/guthia-mosque-baitul-aman-jame-mosque_cover.webp",
+      "bytes": 248706
     },
     {
       "file": "images/hajiganj-boro-masjid_cover.webp",
@@ -378,6 +422,10 @@
     {
       "file": "images/itakhola-mura_cover.webp",
       "bytes": 375488
+    },
+    {
+      "file": "images/jacob-tower_cover.webp",
+      "bytes": 48366
     },
     {
       "file": "images/jaflong_cover.webp",
@@ -456,8 +504,24 @@
       "bytes": 237550
     },
     {
+      "file": "images/kirtankhola-river_cover.webp",
+      "bytes": 199720
+    },
+    {
+      "file": "images/kirtipasha-zamindar-bari_cover.webp",
+      "bytes": 271394
+    },
+    {
       "file": "images/konglak-hill_cover.webp",
       "bytes": 257580
+    },
+    {
+      "file": "images/kuakata-beach_cover.webp",
+      "bytes": 145808
+    },
+    {
+      "file": "images/kuakata-buddhist-temple_cover.webp",
+      "bytes": 756918
     },
     {
       "file": "images/kullapathar-war-cemetery_cover.webp",
@@ -490,6 +554,10 @@
     {
       "file": "images/lawachara-national-park_cover.webp",
       "bytes": 118804
+    },
+    {
+      "file": "images/lebur-char_cover.webp",
+      "bytes": 136058
     },
     {
       "file": "images/liberation-war-museum_2.webp",
@@ -556,6 +624,10 @@
       "bytes": 80470
     },
     {
+      "file": "images/mia-bari-mosque_cover.webp",
+      "bytes": 177958
+    },
+    {
       "file": "images/mohamaya-lake_cover.webp",
       "bytes": 219848
     },
@@ -574,6 +646,10 @@
     {
       "file": "images/moju-chowdhury-hat_cover.webp",
       "bytes": 207636
+    },
+    {
+      "file": "images/momin-mosque_cover.webp",
+      "bytes": 51600
     },
     {
       "file": "images/muhuri-project_cover.webp",
@@ -664,6 +740,10 @@
       "bytes": 385992
     },
     {
+      "file": "images/oxford-mission-church_cover.webp",
+      "bytes": 113100
+    },
+    {
       "file": "images/panam-city_2.webp",
       "bytes": 325534
     },
@@ -738,6 +818,10 @@
     {
       "file": "images/ratargul-swamp-forest_cover.webp",
       "bytes": 544252
+    },
+    {
+      "file": "images/rayerkathi-zamindar-bari_cover.webp",
+      "bytes": 690274
     },
     {
       "file": "images/rema-kalenga-wildlife-sanctuary_cover.webp",
@@ -896,6 +980,10 @@
       "bytes": 159106
     },
     {
+      "file": "images/swarupkathi-guava-gardens_cover.webp",
+      "bytes": 381272
+    },
+    {
       "file": "images/tajhat-zamindar-bari_cover.webp",
       "bytes": 425794
     },
@@ -950,6 +1038,10 @@
     {
       "file": "images/tungipara-mausoleum_cover.webp",
       "bytes": 279990
+    },
+    {
+      "file": "images/ulania-zamindar-house_cover.webp",
+      "bytes": 251422
     },
     {
       "file": "images/utma-chhara_cover.webp",
