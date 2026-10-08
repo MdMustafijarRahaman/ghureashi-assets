@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T10:37:35.910Z",
-  "totalBytes": 70776988,
-  "count": 265,
+  "generatedAt": "2026-10-08T15:05:33.846Z",
+  "totalBytes": 76524140,
+  "count": 285,
   "files": [
     {
       "file": "images/201-gombuj-mosque_2.webp",
@@ -26,6 +26,10 @@
     {
       "file": "images/ali-amjads-clock_cover.webp",
       "bytes": 136588
+    },
+    {
+      "file": "images/altadighi-national-park_cover.webp",
+      "bytes": 268016
     },
     {
       "file": "images/alutila-cave_cover.webp",
@@ -62,6 +66,10 @@
     {
       "file": "images/atia-mosque_cover.webp",
       "bytes": 142768
+    },
+    {
+      "file": "images/bagha-mosque_cover.webp",
+      "bytes": 369648
     },
     {
       "file": "images/baikka-beel_cover.webp",
@@ -128,6 +136,10 @@
       "bytes": 663404
     },
     {
+      "file": "images/bhabanipur-shakti-peeth_cover.webp",
+      "bytes": 28760
+    },
+    {
       "file": "images/bhawal-national-park_2.webp",
       "bytes": 344006
     },
@@ -142,6 +154,10 @@
     {
       "file": "images/bhawal-rajbari_cover.webp",
       "bytes": 439298
+    },
+    {
+      "file": "images/bhimer-panti_cover.webp",
+      "bytes": 257904
     },
     {
       "file": "images/bhimruli-floating-guava-market_cover.webp",
@@ -182,6 +198,10 @@
     {
       "file": "images/buddha-dhatu-jadi_cover.webp",
       "bytes": 461248
+    },
+    {
+      "file": "images/chalan-beel_cover.webp",
+      "bytes": 180460
     },
     {
       "file": "images/chandpur-boro-station_cover.webp",
@@ -352,6 +372,14 @@
       "bytes": 179712
     },
     {
+      "file": "images/gokul-medh-behular-bashor-ghar_cover.webp",
+      "bytes": 191728
+    },
+    {
+      "file": "images/govinda-bhita-temple_cover.webp",
+      "bytes": 199914
+    },
+    {
       "file": "images/guliakhali-beach_cover.webp",
       "bytes": 245576
     },
@@ -374,6 +402,10 @@
     {
       "file": "images/harano-mosque_cover.webp",
       "bytes": 60854
+    },
+    {
+      "file": "images/hardinge-bridge_cover.webp",
+      "bytes": 293398
     },
     {
       "file": "images/haripur-zamindar-bari_cover.webp",
@@ -500,6 +532,10 @@
       "bytes": 915024
     },
     {
+      "file": "images/khanjandighi-mosque_cover.webp",
+      "bytes": 782838
+    },
+    {
       "file": "images/kharampur-mazar_cover.webp",
       "bytes": 237550
     },
@@ -530,6 +566,10 @@
     {
       "file": "images/kumira-ghat_cover.webp",
       "bytes": 146464
+    },
+    {
+      "file": "images/kusumba-mosque_cover.webp",
+      "bytes": 246018
     },
     {
       "file": "images/kutubdia-lighthouse_cover.webp",
@@ -590,6 +630,14 @@
     {
       "file": "images/madhutila-eco-park_cover.webp",
       "bytes": 406936
+    },
+    {
+      "file": "images/mahasthangarh-museum_cover.webp",
+      "bytes": 368288
+    },
+    {
+      "file": "images/mahasthangarh_cover.webp",
+      "bytes": 209978
     },
     {
       "file": "images/maheshkhali-adinath_cover.webp",
@@ -744,6 +792,10 @@
       "bytes": 113100
     },
     {
+      "file": "images/paharpur-somapura-mahavihara_cover.webp",
+      "bytes": 354398
+    },
+    {
       "file": "images/panam-city_2.webp",
       "bytes": 325534
     },
@@ -774,6 +826,10 @@
     {
       "file": "images/porabari-chomchom_cover.webp",
       "bytes": 207682
+    },
+    {
+      "file": "images/puthia-rajbari-and-temple-complex_cover.webp",
+      "bytes": 288592
     },
     {
       "file": "images/raja-tonkanath-palace_cover.webp",
@@ -830,6 +886,10 @@
     {
       "file": "images/richhang-waterfall_cover.webp",
       "bytes": 95444
+    },
+    {
+      "file": "images/rooppur-nuclear-power-plant_cover.webp",
+      "bytes": 101750
     },
     {
       "file": "images/royailbari-fort_cover.webp",
@@ -984,6 +1044,10 @@
       "bytes": 381272
     },
     {
+      "file": "images/t-bandh_cover.webp",
+      "bytes": 284468
+    },
+    {
       "file": "images/tajhat-zamindar-bari_cover.webp",
       "bytes": 425794
     },
@@ -1044,8 +1108,24 @@
       "bytes": 251422
     },
     {
+      "file": "images/university-of-rajshahi_cover.webp",
+      "bytes": 246318
+    },
+    {
       "file": "images/utma-chhara_cover.webp",
       "bytes": 232662
+    },
+    {
+      "file": "images/uttara-gono-bhaban-dighapatia-rajbari_cover.webp",
+      "bytes": 306920
+    },
+    {
+      "file": "images/varendra-research-museum_cover.webp",
+      "bytes": 295942
+    },
+    {
+      "file": "images/vasu-vihara_cover.webp",
+      "bytes": 471814
     },
     {
       "file": "images/vinno-jogot_cover.webp",
