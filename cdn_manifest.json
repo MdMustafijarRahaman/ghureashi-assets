@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T12:42:49.372Z",
-  "totalBytes": 42407502,
-  "count": 155,
+  "generatedAt": "2026-10-08T07:26:47.370Z",
+  "totalBytes": 61857588,
+  "count": 230,
   "files": [
     {
       "file": "images/201-gombuj-mosque_2.webp",
@@ -20,8 +20,16 @@
       "bytes": 339710
     },
     {
+      "file": "images/ali-amjads-clock_cover.webp",
+      "bytes": 136588
+    },
+    {
       "file": "images/alutila-cave_cover.webp",
       "bytes": 377254
+    },
+    {
+      "file": "images/amiakhum-waterfall_cover.webp",
+      "bytes": 538254
     },
     {
       "file": "images/arial-beel_2.webp",
@@ -52,6 +60,14 @@
       "bytes": 142768
     },
     {
+      "file": "images/baikka-beel_cover.webp",
+      "bytes": 115124
+    },
+    {
+      "file": "images/bajra-shahi-mosque_cover.webp",
+      "bytes": 475720
+    },
+    {
       "file": "images/balashi-ghat_cover.webp",
       "bytes": 256690
     },
@@ -80,6 +96,26 @@
       "bytes": 154496
     },
     {
+      "file": "images/bangladesh-tea-research-institute_cover.webp",
+      "bytes": 355256
+    },
+    {
+      "file": "images/baniachong_cover.webp",
+      "bytes": 94038
+    },
+    {
+      "file": "images/banshkhali-eco-park_cover.webp",
+      "bytes": 110448
+    },
+    {
+      "file": "images/batali-hill_cover.webp",
+      "bytes": 338364
+    },
+    {
+      "file": "images/bayazid-bostami-shrine_cover.webp",
+      "bytes": 344844
+    },
+    {
       "file": "images/begum-rokeyas-house-payrabandh_cover.webp",
       "bytes": 663404
     },
@@ -104,6 +140,10 @@
       "bytes": 108552
     },
     {
+      "file": "images/bisanakandi_cover.webp",
+      "bytes": 136650
+    },
+    {
       "file": "images/boga-lake_cover.webp",
       "bytes": 443158
     },
@@ -120,8 +160,20 @@
       "bytes": 532294
     },
     {
+      "file": "images/chattogram-zoo_cover.webp",
+      "bytes": 212652
+    },
+    {
+      "file": "images/chera-dwip_cover.webp",
+      "bytes": 222158
+    },
+    {
       "file": "images/chilmari-port_cover.webp",
       "bytes": 148356
+    },
+    {
+      "file": "images/chimbuk-hill_cover.webp",
+      "bytes": 288844
     },
     {
       "file": "images/chini-mosque_cover.webp",
@@ -152,6 +204,10 @@
       "bytes": 218950
     },
     {
+      "file": "images/dc-bungalow-park_cover.webp",
+      "bytes": 118494
+    },
+    {
       "file": "images/dhakeshwari-temple_2.webp",
       "bytes": 273978
     },
@@ -180,12 +236,20 @@
       "bytes": 252520
     },
     {
+      "file": "images/dulahazara-safari-park_cover.webp",
+      "bytes": 290536
+    },
+    {
       "file": "images/egarosindur_2.webp",
       "bytes": 195066
     },
     {
       "file": "images/egarosindur_cover.webp",
       "bytes": 355506
+    },
+    {
+      "file": "images/ethnological-museum_cover.webp",
+      "bytes": 218970
     },
     {
       "file": "images/fantasy-kingdom_cover.webp",
@@ -228,12 +292,32 @@
       "bytes": 179712
     },
     {
+      "file": "images/guliakhali-beach_cover.webp",
+      "bytes": 245576
+    },
+    {
       "file": "images/hajiganj-boro-masjid_cover.webp",
       "bytes": 112014
     },
     {
+      "file": "images/hakaluki-haor_cover.webp",
+      "bytes": 31996
+    },
+    {
+      "file": "images/hamham-waterfall_cover.webp",
+      "bytes": 601170
+    },
+    {
       "file": "images/harano-mosque_cover.webp",
       "bytes": 60854
+    },
+    {
+      "file": "images/haripur-zamindar-bari_cover.webp",
+      "bytes": 257164
+    },
+    {
+      "file": "images/hasan-raja-museum_cover.webp",
+      "bytes": 36928
     },
     {
       "file": "images/hatirjheel_2.webp",
@@ -246,6 +330,14 @@
     {
       "file": "images/hili-land-port_cover.webp",
       "bytes": 183972
+    },
+    {
+      "file": "images/hilsa-square_cover.webp",
+      "bytes": 65776
+    },
+    {
+      "file": "images/himchari-national-park_cover.webp",
+      "bytes": 89904
     },
     {
       "file": "images/himchari_cover.webp",
@@ -264,12 +356,24 @@
       "bytes": 143884
     },
     {
+      "file": "images/itakhola-mura_cover.webp",
+      "bytes": 375488
+    },
+    {
+      "file": "images/jaflong_cover.webp",
+      "bytes": 282104
+    },
+    {
       "file": "images/jahangirnagar-university_2.webp",
       "bytes": 366776
     },
     {
       "file": "images/jahangirnagar-university_cover.webp",
       "bytes": 237408
+    },
+    {
+      "file": "images/jaintapur-rajbari_cover.webp",
+      "bytes": 667958
     },
     {
       "file": "images/jatiyo-sangsad-bhaban_2.webp",
@@ -300,12 +404,56 @@
       "bytes": 303574
     },
     {
+      "file": "images/keane-bridge_cover.webp",
+      "bytes": 148570
+    },
+    {
+      "file": "images/keokradong_cover.webp",
+      "bytes": 271576
+    },
+    {
       "file": "images/keramatia-mosque_cover.webp",
       "bytes": 314556
     },
     {
+      "file": "images/khadimnagar-national-park_cover.webp",
+      "bytes": 316552
+    },
+    {
+      "file": "images/khadimnagar-tea-garden_cover.webp",
+      "bytes": 461790
+    },
+    {
+      "file": "images/khagrachhari-district-council-park_cover.webp",
+      "bytes": 352506
+    },
+    {
       "file": "images/khaiyachora-waterfall_cover.webp",
       "bytes": 915024
+    },
+    {
+      "file": "images/kharampur-mazar_cover.webp",
+      "bytes": 237550
+    },
+    {
+      "file": "images/konglak-hill_cover.webp",
+      "bytes": 257580
+    },
+    {
+      "file": "images/kullapathar-war-cemetery_cover.webp",
+      "bytes": 385052
+    },
+    {
+      "file": "images/kumira-ghat_cover.webp",
+      "bytes": 146464
+    },
+    {
+      "file": "images/kutubdia-lighthouse_cover.webp",
+      "bytes": 577626
+    },
+    {
+      "file": "images/lalakhal_cover.webp",
+      "bytes": 76898
     },
     {
       "file": "images/lalbagh-fort_2.webp",
@@ -316,12 +464,32 @@
       "bytes": 123446
     },
     {
+      "file": "images/lalmai-hills_cover.webp",
+      "bytes": 367238
+    },
+    {
+      "file": "images/lawachara-national-park_cover.webp",
+      "bytes": 118804
+    },
+    {
       "file": "images/liberation-war-museum_2.webp",
       "bytes": 86824
     },
     {
       "file": "images/liberation-war-museum_cover.webp",
       "bytes": 91156
+    },
+    {
+      "file": "images/lohagarh-math_cover.webp",
+      "bytes": 216782
+    },
+    {
+      "file": "images/madhabkunda-waterfall_cover.webp",
+      "bytes": 523606
+    },
+    {
+      "file": "images/madhabpur-lake_cover.webp",
+      "bytes": 271262
     },
     {
       "file": "images/madhupur-national-park_2.webp",
@@ -334,6 +502,14 @@
     {
       "file": "images/maheshkhali-adinath_cover.webp",
       "bytes": 431012
+    },
+    {
+      "file": "images/maheshkhali-jetty_cover.webp",
+      "bytes": 254286
+    },
+    {
+      "file": "images/malnicherra-tea-garden_cover.webp",
+      "bytes": 587084
     },
     {
       "file": "images/mathurapur-deul_2.webp",
@@ -352,12 +528,28 @@
       "bytes": 163620
     },
     {
+      "file": "images/meghla-tourist-complex_cover.webp",
+      "bytes": 80470
+    },
+    {
+      "file": "images/mohamaya-lake_cover.webp",
+      "bytes": 219848
+    },
+    {
+      "file": "images/mohanpur-tourist-center_cover.webp",
+      "bytes": 178348
+    },
+    {
       "file": "images/mohera-zamindar-bari_2.webp",
       "bytes": 358346
     },
     {
       "file": "images/mohera-zamindar-bari_cover.webp",
       "bytes": 235610
+    },
+    {
+      "file": "images/moju-chowdhury-hat_cover.webp",
+      "bytes": 207636
     },
     {
       "file": "images/muhuri-project_cover.webp",
@@ -392,6 +584,10 @@
       "bytes": 285778
     },
     {
+      "file": "images/nijhum-dwip-national-park_cover.webp",
+      "bytes": 119156
+    },
+    {
       "file": "images/nijhum-dwip_cover.webp",
       "bytes": 119156
     },
@@ -402,6 +598,14 @@
     {
       "file": "images/nikli-haor_cover.webp",
       "bytes": 44662
+    },
+    {
+      "file": "images/nilachal_cover.webp",
+      "bytes": 97816
+    },
+    {
+      "file": "images/niladri-lake_cover.webp",
+      "bytes": 196960
     },
     {
       "file": "images/nilgiri_cover.webp",
@@ -428,12 +632,20 @@
       "bytes": 393922
     },
     {
+      "file": "images/osmani-museum_cover.webp",
+      "bytes": 385992
+    },
+    {
       "file": "images/panam-city_2.webp",
       "bytes": 325534
     },
     {
       "file": "images/panam-city_cover.webp",
       "bytes": 181410
+    },
+    {
+      "file": "images/parki-beach_cover.webp",
+      "bytes": 43700
     },
     {
       "file": "images/patenga-beach_cover.webp",
@@ -446,6 +658,10 @@
     {
       "file": "images/paturia-ghat_cover.webp",
       "bytes": 89090
+    },
+    {
+      "file": "images/peda-ting-ting_cover.webp",
+      "bytes": 255098
     },
     {
       "file": "images/porabari-chomchom_cover.webp",
@@ -464,6 +680,10 @@
       "bytes": 422220
     },
     {
+      "file": "images/rajban-vihara_cover.webp",
+      "bytes": 225850
+    },
+    {
       "file": "images/ramna-park_2.webp",
       "bytes": 625520
     },
@@ -476,12 +696,24 @@
       "bytes": 411700
     },
     {
+      "file": "images/ramu-ramkot-tirthadham_cover.webp",
+      "bytes": 280984
+    },
+    {
       "file": "images/rangamati-hanging-bridge_cover.webp",
       "bytes": 303574
     },
     {
       "file": "images/rangpur-zoo_cover.webp",
       "bytes": 110458
+    },
+    {
+      "file": "images/ratargul-swamp-forest_cover.webp",
+      "bytes": 544252
+    },
+    {
+      "file": "images/rema-kalenga-wildlife-sanctuary_cover.webp",
+      "bytes": 527924
     },
     {
       "file": "images/richhang-waterfall_cover.webp",
@@ -494,6 +726,14 @@
     {
       "file": "images/rudrakar-matth_cover.webp",
       "bytes": 180730
+    },
+    {
+      "file": "images/rupban-mura_cover.webp",
+      "bytes": 312378
+    },
+    {
+      "file": "images/sadapathor_cover.webp",
+      "bytes": 43324
     },
     {
       "file": "images/safari-park-gazipur_2.webp",
@@ -520,6 +760,10 @@
       "bytes": 155298
     },
     {
+      "file": "images/satchari-national-park_cover.webp",
+      "bytes": 278576
+    },
+    {
       "file": "images/satoir-mosque_2.webp",
       "bytes": 279286
     },
@@ -528,8 +772,16 @@
       "bytes": 282176
     },
     {
+      "file": "images/shah-paran-mazar_cover.webp",
+      "bytes": 320180
+    },
+    {
       "file": "images/shahi-mosque-kurigram_cover.webp",
       "bytes": 97518
+    },
+    {
+      "file": "images/shahjalal-university-of-science-and-technology-campus_cover.webp",
+      "bytes": 46614
     },
     {
       "file": "images/shakuni-lake_cover.webp",
@@ -538,6 +790,18 @@
     {
       "file": "images/shalban-vihara_cover.webp",
       "bytes": 321862
+    },
+    {
+      "file": "images/sheikh-russel-aviary-and-eco-park_cover.webp",
+      "bytes": 381992
+    },
+    {
+      "file": "images/shimul-bagan_cover.webp",
+      "bytes": 106682
+    },
+    {
+      "file": "images/shoilo-propat-waterfall_cover.webp",
+      "bytes": 359292
     },
     {
       "file": "images/sholakia-eidgah_2.webp",
@@ -552,12 +816,24 @@
       "bytes": 109564
     },
     {
+      "file": "images/shrine-of-hazrat-shah-jalal_cover.webp",
+      "bytes": 131104
+    },
+    {
       "file": "images/shuvolong-waterfall_cover.webp",
       "bytes": 523898
     },
     {
       "file": "images/sindurmoti-dighi_cover.webp",
       "bytes": 177900
+    },
+    {
+      "file": "images/sitakunda-eco-park_cover.webp",
+      "bytes": 385996
+    },
+    {
+      "file": "images/sonadia-island_cover.webp",
+      "bytes": 580140
     },
     {
       "file": "images/star-mosque_2.webp",
@@ -572,8 +848,20 @@
       "bytes": 281718
     },
     {
+      "file": "images/surma-river_cover.webp",
+      "bytes": 159106
+    },
+    {
       "file": "images/tajhat-zamindar-bari_cover.webp",
       "bytes": 425794
+    },
+    {
+      "file": "images/tanguar-haor-watch-tower_cover.webp",
+      "bytes": 78028
+    },
+    {
+      "file": "images/tanguar-haor_cover.webp",
+      "bytes": 24366
     },
     {
       "file": "images/teesta-barrage-dalia_cover.webp",
@@ -586,6 +874,10 @@
     {
       "file": "images/teesta-river_cover.webp",
       "bytes": 145650
+    },
+    {
+      "file": "images/tekerghat_cover.webp",
+      "bytes": 287102
     },
     {
       "file": "images/teota-zamindar-bari_2.webp",
@@ -604,12 +896,20 @@
       "bytes": 161696
     },
     {
+      "file": "images/tindu_cover.webp",
+      "bytes": 136280
+    },
+    {
       "file": "images/tita-khan-mosque_cover.webp",
       "bytes": 321136
     },
     {
       "file": "images/tungipara-mausoleum_cover.webp",
       "bytes": 279990
+    },
+    {
+      "file": "images/utma-chhara_cover.webp",
+      "bytes": 232662
     },
     {
       "file": "images/vinno-jogot_cover.webp",
