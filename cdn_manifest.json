@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T15:05:33.846Z",
-  "totalBytes": 76524140,
-  "count": 285,
+  "generatedAt": "2026-10-08T15:44:50.491Z",
+  "totalBytes": 79132702,
+  "count": 294,
   "files": [
     {
       "file": "images/201-gombuj-mosque_2.webp",
@@ -102,6 +102,14 @@
     {
       "file": "images/baliati-palace_cover.webp",
       "bytes": 501198
+    },
+    {
+      "file": "images/balihar-rajbari_cover.webp",
+      "bytes": 303700
+    },
+    {
+      "file": "images/bangabandhu-jamuna-bridge_cover.webp",
+      "bytes": 207514
     },
     {
       "file": "images/bangladesh-national-museum_2.webp",
@@ -240,6 +248,10 @@
       "bytes": 469248
     },
     {
+      "file": "images/choto-sona-mosque_cover.webp",
+      "bytes": 151126
+    },
+    {
       "file": "images/coxs-bazar-beach_cover.webp",
       "bytes": 59414
     },
@@ -258,6 +270,10 @@
     {
       "file": "images/dalal-bazar-zamindar-bari_cover.webp",
       "bytes": 218950
+    },
+    {
+      "file": "images/darasbari-mosque_cover.webp",
+      "bytes": 195442
     },
     {
       "file": "images/dc-bungalow-park_cover.webp",
@@ -464,6 +480,10 @@
       "bytes": 282104
     },
     {
+      "file": "images/jagaddala-vihara_cover.webp",
+      "bytes": 225078
+    },
+    {
       "file": "images/jahangirnagar-university_2.webp",
       "bytes": 366776
     },
@@ -490,6 +510,10 @@
     {
       "file": "images/jinda-park_cover.webp",
       "bytes": 293356
+    },
+    {
+      "file": "images/jor-bangla-temple_cover.webp",
+      "bytes": 96512
     },
     {
       "file": "images/kalvairab-temple_cover.webp",
@@ -872,6 +896,10 @@
       "bytes": 110458
     },
     {
+      "file": "images/rani-bhabani-rajbari_cover.webp",
+      "bytes": 684550
+    },
+    {
       "file": "images/ratargul-swamp-forest_cover.webp",
       "bytes": 544252
     },
@@ -956,6 +984,10 @@
       "bytes": 97518
     },
     {
+      "file": "images/shahjadpur-rabindra-kachari-bari_cover.webp",
+      "bytes": 392436
+    },
+    {
       "file": "images/shahjalal-university-of-science-and-technology-campus_cover.webp",
       "bytes": 46614
     },
@@ -1030,6 +1062,10 @@
     {
       "file": "images/star-mosque_cover.webp",
       "bytes": 189586
+    },
+    {
+      "file": "images/suchitra-sen-memorial-collection_cover.webp",
+      "bytes": 352204
     },
     {
       "file": "images/sureshwar-darbar_cover.webp",
