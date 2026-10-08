@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T07:26:47.370Z",
-  "totalBytes": 61857588,
-  "count": 230,
+  "generatedAt": "2026-10-08T09:47:56.602Z",
+  "totalBytes": 65397418,
+  "count": 242,
   "files": [
     {
       "file": "images/201-gombuj-mosque_2.webp",
@@ -18,6 +18,10 @@
     {
       "file": "images/ahsan-manzil_cover.webp",
       "bytes": 339710
+    },
+    {
+      "file": "images/alexander-castle_cover.webp",
+      "bytes": 399132
     },
     {
       "file": "images/ali-amjads-clock_cover.webp",
@@ -140,6 +144,14 @@
       "bytes": 108552
     },
     {
+      "file": "images/bijoypur-china-clay-hills_cover.webp",
+      "bytes": 266224
+    },
+    {
+      "file": "images/birishiri-cultural-academy_cover.webp",
+      "bytes": 411270
+    },
+    {
       "file": "images/bisanakandi_cover.webp",
       "bytes": 136650
     },
@@ -232,6 +244,10 @@
       "bytes": 207848
     },
     {
+      "file": "images/doyamoyee-temple_cover.webp",
+      "bytes": 184682
+    },
+    {
       "file": "images/dream-holiday-park_cover.webp",
       "bytes": 252520
     },
@@ -270,6 +286,10 @@
     {
       "file": "images/friendship-center_cover.webp",
       "bytes": 425150
+    },
+    {
+      "file": "images/gajni-abokash-kendro_cover.webp",
+      "bytes": 175676
     },
     {
       "file": "images/goalanda-ghat_2.webp",
@@ -500,6 +520,10 @@
       "bytes": 350946
     },
     {
+      "file": "images/madhutila-eco-park_cover.webp",
+      "bytes": 406936
+    },
+    {
       "file": "images/maheshkhali-adinath_cover.webp",
       "bytes": 431012
     },
@@ -554,6 +578,10 @@
     {
       "file": "images/muhuri-project_cover.webp",
       "bytes": 128718
+    },
+    {
+      "file": "images/muktagacha-zamindar-bari_cover.webp",
+      "bytes": 154686
     },
     {
       "file": "images/musapur-closure_cover.webp",
@@ -720,6 +748,10 @@
       "bytes": 95444
     },
     {
+      "file": "images/royailbari-fort_cover.webp",
+      "bytes": 362840
+    },
+    {
       "file": "images/rudrakar-matth_2.webp",
       "bytes": 184394
     },
@@ -792,6 +824,10 @@
       "bytes": 321862
     },
     {
+      "file": "images/shashi-lodge_cover.webp",
+      "bytes": 410202
+    },
+    {
       "file": "images/sheikh-russel-aviary-and-eco-park_cover.webp",
       "bytes": 381992
     },
@@ -818,6 +854,14 @@
     {
       "file": "images/shrine-of-hazrat-shah-jalal_cover.webp",
       "bytes": 131104
+    },
+    {
+      "file": "images/shrine-of-hazrat-shah-jamal_cover.webp",
+      "bytes": 346182
+    },
+    {
+      "file": "images/shrine-of-shah-sultan-rumi_cover.webp",
+      "bytes": 381706
     },
     {
       "file": "images/shuvolong-waterfall_cover.webp",
@@ -922,6 +966,10 @@
     {
       "file": "images/wari-bateshwar_cover.webp",
       "bytes": 476374
+    },
+    {
+      "file": "images/zainul-abedin-sangrahashala_cover.webp",
+      "bytes": 40294
     }
   ]
 }
