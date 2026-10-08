@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T15:44:50.491Z",
-  "totalBytes": 79132702,
-  "count": 294,
+  "generatedAt": "2026-10-08T16:57:24.848Z",
+  "totalBytes": 85937470,
+  "count": 320,
   "files": [
     {
       "file": "images/201-gombuj-mosque_2.webp",
@@ -40,6 +40,10 @@
       "bytes": 538254
     },
     {
+      "file": "images/amjhupi-nilkuthi-indigo-factory_cover.webp",
+      "bytes": 441246
+    },
+    {
       "file": "images/arial-beel_2.webp",
       "bytes": 232684
     },
@@ -66,6 +70,10 @@
     {
       "file": "images/atia-mosque_cover.webp",
       "bytes": 142768
+    },
+    {
+      "file": "images/bagerhat-museum_cover.webp",
+      "bytes": 293464
     },
     {
       "file": "images/bagha-mosque_cover.webp",
@@ -136,12 +144,20 @@
       "bytes": 338364
     },
     {
+      "file": "images/batiaghata_cover.webp",
+      "bytes": 127016
+    },
+    {
       "file": "images/bayazid-bostami-shrine_cover.webp",
       "bytes": 344844
     },
     {
       "file": "images/begum-rokeyas-house-payrabandh_cover.webp",
       "bytes": 663404
+    },
+    {
+      "file": "images/benapole-land-port_cover.webp",
+      "bytes": 43514
     },
     {
       "file": "images/bhabanipur-shakti-peeth_cover.webp",
@@ -208,6 +224,10 @@
       "bytes": 461248
     },
     {
+      "file": "images/chachra-shiva-temple_cover.webp",
+      "bytes": 728174
+    },
+    {
       "file": "images/chalan-beel_cover.webp",
       "bytes": 180460
     },
@@ -242,6 +262,10 @@
     {
       "file": "images/chini-mosque_cover.webp",
       "bytes": 432864
+    },
+    {
+      "file": "images/chitra-river_cover.webp",
+      "bytes": 120864
     },
     {
       "file": "images/chittagong-war-cemetery_cover.webp",
@@ -388,8 +412,16 @@
       "bytes": 179712
     },
     {
+      "file": "images/godkhali-flower-market_cover.webp",
+      "bytes": 451600
+    },
+    {
       "file": "images/gokul-medh-behular-bashor-ghar_cover.webp",
       "bytes": 191728
+    },
+    {
+      "file": "images/gorar-mosque_cover.webp",
+      "bytes": 250548
     },
     {
       "file": "images/govinda-bhita-temple_cover.webp",
@@ -496,6 +528,10 @@
       "bytes": 667958
     },
     {
+      "file": "images/jashoreshwari-kali-temple_cover.webp",
+      "bytes": 138166
+    },
+    {
       "file": "images/jatiyo-sangsad-bhaban_2.webp",
       "bytes": 120758
     },
@@ -504,12 +540,24 @@
       "bytes": 73776
     },
     {
+      "file": "images/jessore-collectorate-building_cover.webp",
+      "bytes": 119048
+    },
+    {
+      "file": "images/jhaudia-shahi-mosque_cover.webp",
+      "bytes": 506734
+    },
+    {
       "file": "images/jinda-park_2.webp",
       "bytes": 423502
     },
     {
       "file": "images/jinda-park_cover.webp",
       "bytes": 293356
+    },
+    {
+      "file": "images/jor-bangla-mosque_cover.webp",
+      "bytes": 283434
     },
     {
       "file": "images/jor-bangla-temple_cover.webp",
@@ -556,6 +604,14 @@
       "bytes": 915024
     },
     {
+      "file": "images/khan-jahan-ali-bridge-rupsha-bridge_cover.webp",
+      "bytes": 197288
+    },
+    {
+      "file": "images/khan-jahan-ali-dighi_cover.webp",
+      "bytes": 202602
+    },
+    {
       "file": "images/khanjandighi-mosque_cover.webp",
       "bytes": 782838
     },
@@ -570,6 +626,10 @@
     {
       "file": "images/kirtipasha-zamindar-bari_cover.webp",
       "bytes": 271394
+    },
+    {
+      "file": "images/kodla-math-ayodhya-math_cover.webp",
+      "bytes": 635566
     },
     {
       "file": "images/konglak-hill_cover.webp",
@@ -590,6 +650,10 @@
     {
       "file": "images/kumira-ghat_cover.webp",
       "bytes": 146464
+    },
+    {
+      "file": "images/kushtia-municipal-building_cover.webp",
+      "bytes": 203266
     },
     {
       "file": "images/kusumba-mosque_cover.webp",
@@ -684,6 +748,10 @@
       "bytes": 224108
     },
     {
+      "file": "images/mausoleum-of-khan-jahan-ali_cover.webp",
+      "bytes": 203686
+    },
+    {
       "file": "images/mawa-ghat_2.webp",
       "bytes": 312218
     },
@@ -698,6 +766,10 @@
     {
       "file": "images/mia-bari-mosque_cover.webp",
       "bytes": 177958
+    },
+    {
+      "file": "images/michael-madhusudan-dutt-ancestral-house_cover.webp",
+      "bytes": 241432
     },
     {
       "file": "images/mohamaya-lake_cover.webp",
@@ -716,6 +788,10 @@
       "bytes": 235610
     },
     {
+      "file": "images/mohini-mill_cover.webp",
+      "bytes": 400296
+    },
+    {
       "file": "images/moju-chowdhury-hat_cover.webp",
       "bytes": 207636
     },
@@ -726,6 +802,10 @@
     {
       "file": "images/muhuri-project_cover.webp",
       "bytes": 128718
+    },
+    {
+      "file": "images/mujibnagar-memorial-complex_cover.webp",
+      "bytes": 137534
     },
     {
       "file": "images/muktagacha-zamindar-bari_cover.webp",
@@ -936,6 +1016,10 @@
       "bytes": 312378
     },
     {
+      "file": "images/rupsha-river_cover.webp",
+      "bytes": 251072
+    },
+    {
       "file": "images/sadapathor_cover.webp",
       "bytes": 43324
     },
@@ -1008,6 +1092,10 @@
       "bytes": 381992
     },
     {
+      "file": "images/shilaidaha-kuthibari_cover.webp",
+      "bytes": 188584
+    },
+    {
       "file": "images/shimul-bagan_cover.webp",
       "bytes": 106682
     },
@@ -1052,6 +1140,10 @@
       "bytes": 385996
     },
     {
+      "file": "images/sixty-dome-mosque-shat-gombuj-mosque_cover.webp",
+      "bytes": 293952
+    },
+    {
       "file": "images/sonadia-island_cover.webp",
       "bytes": 580140
     },
@@ -1068,6 +1160,10 @@
       "bytes": 352204
     },
     {
+      "file": "images/sundarbans_cover.webp",
+      "bytes": 38556
+    },
+    {
       "file": "images/sureshwar-darbar_cover.webp",
       "bytes": 281718
     },
@@ -1082,6 +1178,10 @@
     {
       "file": "images/t-bandh_cover.webp",
       "bytes": 284468
+    },
+    {
+      "file": "images/tagore-lodge_cover.webp",
+      "bytes": 222896
     },
     {
       "file": "images/tajhat-zamindar-bari_cover.webp",
@@ -1178,6 +1278,10 @@
     {
       "file": "images/zainul-abedin-sangrahashala_cover.webp",
       "bytes": 40294
+    },
+    {
+      "file": "images/zinda-pir-mosque_cover.webp",
+      "bytes": 84230
     }
   ]
 }
